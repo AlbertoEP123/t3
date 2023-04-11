@@ -2,17 +2,34 @@ body{
     width: 50%;
     height: auto;
     margin: 0 auto;
+    margin-top: 4%;
+    background-color: antiquewhite;
+    text-align: center;
+    
 }
 h1{
     background-color:rgb(169, 248, 169);
     color: white;
+    text-align: center;
 }
 
 .p1 nav{
 background-color: red;
 text-align: center;
+
 }
 
 .p2 nav{
     background-color: aquamarine;
+}
+
+a {
+    border: solid 2px;
+    display: inline-block;
+    min-width: 250px;
+    width: 20vw;
+    background-color: lightblue;
+    margin: 3px;
+    border-radius: 2px;
+    box-shadow: 5px 2px 4px yellow;
 }
