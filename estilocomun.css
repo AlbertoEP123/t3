@@ -1,0 +1,18 @@
+body{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+h1{
+    background-color:rgb(169, 248, 169);
+    color: white;
+}
+
+.p1 nav{
+background-color: red;
+text-align: center;
+}
+
+.p2 nav{
+    background-color: aquamarine;
+}
